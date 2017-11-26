@@ -10,4 +10,4 @@ If you want me to make more videos. Please support me
 # Watch This Tutorials
 
 # v1 - Clear Inventory
- * -> https://www.youtube.com/watch?v=SwEdmg3C4ME&feature=youtu.be
+ * -> https://www.youtube.com/watch?v=SwEdmg3C4ME
