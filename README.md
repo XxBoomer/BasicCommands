@@ -1,4 +1,4 @@
-# BasicCommands - Version: v1
+# BasicCommands - Version: v2
 
 This plugin is used for my video tutorial
 
@@ -11,3 +11,6 @@ If you want me to make more videos. Please support me
 
 # v1 - Clear Inventory
  * -> https://www.youtube.com/watch?v=SwEdmg3C4ME
+ 
+# v2 - Adding Effects
+ * -> https://www.youtube.com/watch?v=yp3QpkolmtE&feature=youtu.be
