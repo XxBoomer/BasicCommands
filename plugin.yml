@@ -7,3 +7,6 @@ author: FreakingDev
 commands:
  clear:
     description: "Clear Inventory"
+
+ jump:
+    description: "Jump Effects"
