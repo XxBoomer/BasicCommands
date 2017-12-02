@@ -13,4 +13,4 @@ If you want me to make more videos. Please support me
  * -> https://www.youtube.com/watch?v=SwEdmg3C4ME
  
 # v2 - Adding Effects
- * -> https://www.youtube.com/watch?v=yp3QpkolmtE&feature=youtu.be
+ * -> https://www.youtube.com/watch?v=yp3QpkolmtE
